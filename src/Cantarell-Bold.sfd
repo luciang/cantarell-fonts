@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1236980653
-ModificationTime: 1297337067
+ModificationTime: 1297874885
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -9538,7 +9538,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Tcommaaccent
+StartChar: Tcedilla
 Encoding: 354 354 301
 Width: 710
 VWidth: 0
@@ -9584,7 +9584,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tcommaaccent
+StartChar: tcedilla
 Encoding: 355 355 302
 Width: 448
 VWidth: 0
