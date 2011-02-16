@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1236980653
-ModificationTime: 1297874885
+ModificationTime: 1297876640
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 84 12 9
+WinInfo: 468 12 8
 Grid
 -10.2539 694.336 m 25
  798.34 694.336 l 29
@@ -73,7 +73,7 @@ Grid
   EndSpiro
 EndSplineSet
 TeXData: 1 0 0 250299 125149 83433 441600 -782186 83433 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 388
+BeginChars: 1114112 392
 
 StartChar: a
 Encoding: 97 97 0
@@ -14937,6 +14937,58 @@ SplineSet
  578 205.624 471.376 99 340 99 c 4
  208.624 99 102 205.624 102 337 c 4
 EndSplineSet
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 388
+Width: 664
+VWidth: 1023
+Flags: HW
+HStem: -250 190<307 317> -9 81<219.242 443.841> 622 78<287.37 542.598>
+VStem: 131 91<457.824 569.074> 230 165 506 90<123.688 240.321>
+LayerCount: 4
+Fore
+Refer: 69 44 S 1 0 0 1 209 -143 2
+Refer: 55 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: scommaaccent
+Encoding: 537 537 389
+Width: 496
+VWidth: 1023
+Flags: HW
+HStem: -250 190<205 215> -10 68<105.339 323.562> 399 67<288.506 407>
+VStem: 128 165
+LayerCount: 4
+Fore
+Refer: 69 44 N 1 0 0 1 108 -144 2
+Refer: 7 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tcommaaccent
+Encoding: 538 538 390
+Width: 590
+VWidth: 1023
+Flags: HW
+HStem: -250 190<270 280> 0 21<273 356> 621 73<42 273 356 588>
+VStem: 193 165 273 83<0 621>
+LayerCount: 4
+Fore
+Refer: 69 44 N 1 0 0 1 174 -143 2
+Refer: 39 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tcommaaccent
+Encoding: 539 539 391
+Width: 380
+VWidth: 1023
+Flags: HW
+HStem: -250 190<152 162> -9 68<203.12 343.524> 415 68<23 104 185 345>
+VStem: 75 165 104 81<82.7104 415 483 603>
+LayerCount: 4
+Fore
+Refer: 69 44 S 1 0 0 1 54 -143 2
+Refer: 19 116 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
